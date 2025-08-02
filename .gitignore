@@ -1,0 +1,27 @@
+# Sensitive files - encryption keys and password data
+*.key
+passwords.txt
+password.txt
+
+# Build directories
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environment
+venv/
+env/
+.env
